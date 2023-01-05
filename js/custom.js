@@ -26,13 +26,13 @@ const projects = [
   },
 
   {
-    title: "Reel Verse - Cinematic website",
+    title: "React Todo App",
     description:
-      "Maverick is a 2022 American action drama film directed by Joseph Kosinski. It is the sequel to the 1986 film Top Gun and the second installment in the Top Gun film series. Written by Ehren Kruger, Eric Warren Singer, and Christopher McQuarrie, the film is based on a story by Peter Craig and Justin Marks.",
-    image: "./images/reel-verse.png",
-    tools: "html, css, js, leaflet.js, parcel",
-    liveLink: " https://kajal-rekha.github.io/Reel-Verse/",
-    githubLink: "https://github.com/kajal-rekha/Reel-Verse.git",
+      "This is a todo application built with React.js and backend API server written in Node.js. It's a simple, intuitive, and elegant UI for managing your todo list. It comes with a number of great features such as creating, updating or deleting tasks from the list. ",
+    image: "./images/todo-app.png",
+    tools: "React.js, Tailwind CSS",
+    liveLink: " https://kajal-todo-app.netlify.app/",
+    githubLink: "https://github.com/kajal-rekha/react-todo-app.git",
   },
   {
     title: "Spectra Bank - An online bank application",
